@@ -1,0 +1,16 @@
+# Secrets - never upload
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Editor settings
+.vscode/
+
+# Local memory (the app creates this file itself when it saves a fact)
+memory.json

@@ -1,0 +1,5 @@
+smolagents
+pandas
+python-dotenv
+openai
+requests
